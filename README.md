@@ -185,7 +185,7 @@ This project is licensed under the **MIT License**. You are free to use, modify,
 ## 📬 Contact
 
 **Author**: [Abhishek Brahmbhatt]  
-**GitHub**: [https://github.com/your-username](https://github.com/brambhattabhishek)  
+**GitHub**: [https://github.com/brambhattabhishek](https://github.com/brambhattabhishek)  
 **Email**: brambhattabhishek@gmail.com  
 
 If you find this project useful, please consider giving it a ⭐ on GitHub.
